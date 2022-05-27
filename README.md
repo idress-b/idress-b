@@ -1,4 +1,4 @@
-## - 👋 Hi, I’m Hafed Benchellali 
+# - 👋 Hi, I’m Hafed Benchellali a web developer
 - 👀 I used to code in PHP and Javascript
 - 🌱 I’m currently learning ReactJS
 
