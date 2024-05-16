@@ -1,5 +1,4 @@
-# - 👋 Bonjour, je suis Idress
-Développeur junior passionné de javascript et de php
-
+# - 👋 Bonjour, Moi c'est Idress
+et je suis développeur Fullstack Symfony / Vuejs
 
 
